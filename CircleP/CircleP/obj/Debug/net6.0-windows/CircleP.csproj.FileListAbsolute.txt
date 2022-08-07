@@ -1,0 +1,17 @@
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.exe
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.deps.json
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.runtimeconfig.json
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.dll
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.pdb
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.csproj.AssemblyReference.cache
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.Form1.resources
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.csproj.GenerateResource.cache
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.AssemblyInfoInputs.cache
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.AssemblyInfo.cs
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.csproj.CoreCompileInputs.cache
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.dll
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\refint\CircleP.dll
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.pdb
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.genruntimeconfig.cache
+D:\ProjGit\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\ref\CircleP.dll
