@@ -1,0 +1,17 @@
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.exe
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.deps.json
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.runtimeconfig.json
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.dll
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\bin\Debug\net6.0-windows\CircleP.pdb
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.csproj.AssemblyReference.cache
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.Form1.resources
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.csproj.GenerateResource.cache
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.AssemblyInfoInputs.cache
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.AssemblyInfo.cs
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.csproj.CoreCompileInputs.cache
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.dll
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\refint\CircleP.dll
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.pdb
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\CircleP.genruntimeconfig.cache
+C:\Users\PRWz\source\repos\Project1_CircleCal_Mangkorn\CircleP\CircleP\obj\Debug\net6.0-windows\ref\CircleP.dll
