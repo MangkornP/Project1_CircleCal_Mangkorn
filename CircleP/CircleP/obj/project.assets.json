@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PRWz\\.nuget\\packages\\": {}
+    "C:\\Users\\iigluayy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjGit\\Project1_CircleCal_Mangkorn\\CircleP\\CircleP\\CircleP.csproj",
+      "projectUniqueName": "E:\\Users\\iigluayy\\Documents\\GitHub\\Project1_CircleCal_Mangkorn\\CircleP\\CircleP\\CircleP.csproj",
       "projectName": "CircleP",
-      "projectPath": "D:\\ProjGit\\Project1_CircleCal_Mangkorn\\CircleP\\CircleP\\CircleP.csproj",
-      "packagesPath": "C:\\Users\\PRWz\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjGit\\Project1_CircleCal_Mangkorn\\CircleP\\CircleP\\obj\\",
+      "projectPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\Project1_CircleCal_Mangkorn\\CircleP\\CircleP\\CircleP.csproj",
+      "packagesPath": "C:\\Users\\iigluayy\\.nuget\\packages\\",
+      "outputPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\Project1_CircleCal_Mangkorn\\CircleP\\CircleP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PRWz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iigluayy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
