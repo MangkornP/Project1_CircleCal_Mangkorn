@@ -20,5 +20,12 @@ namespace CircleP
             sum = pi * Radius * Radius;
             lbRadius.Text = sum.ToString("");
         }
+
+        private void btClr_Click(object sender, EventArgs e)
+        {
+            txtRadius.Clear();
+            lbRadius.Text = "";
+            txtRadius.Focus();
+        }
     }
 }
