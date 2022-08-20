@@ -40,9 +40,9 @@
             // 
             // label1
             // 
-            this.label1.BackColor = System.Drawing.Color.White;
+            this.label1.BackColor = System.Drawing.Color.Cyan;
             this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label1.Font = new System.Drawing.Font("TH SarabunPSK", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(41, 21);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(245, 38);
@@ -51,8 +51,8 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.button1.Font = new System.Drawing.Font("TH SarabunPSK", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button1.BackColor = System.Drawing.Color.YellowGreen;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Location = new System.Drawing.Point(41, 204);
             this.button1.Name = "button1";
@@ -64,8 +64,8 @@
             // 
             // btClr
             // 
-            this.btClr.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.btClr.Font = new System.Drawing.Font("TH SarabunPSK", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btClr.BackColor = System.Drawing.Color.Red;
+            this.btClr.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btClr.Location = new System.Drawing.Point(247, 204);
             this.btClr.Name = "btClr";
             this.btClr.Size = new System.Drawing.Size(158, 59);
@@ -79,17 +79,17 @@
             this.txtRadius.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtRadius.Font = new System.Drawing.Font("TH SarabunPSK", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.txtRadius.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.txtRadius.Location = new System.Drawing.Point(162, 92);
             this.txtRadius.Name = "txtRadius";
-            this.txtRadius.Size = new System.Drawing.Size(243, 43);
+            this.txtRadius.Size = new System.Drawing.Size(243, 38);
             this.txtRadius.TabIndex = 3;
             this.txtRadius.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label2
             // 
             this.label2.Enabled = false;
-            this.label2.Font = new System.Drawing.Font("TH SarabunPSK", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(41, 92);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(115, 34);
@@ -99,7 +99,7 @@
             // label3
             // 
             this.label3.Enabled = false;
-            this.label3.Font = new System.Drawing.Font("TH SarabunPSK", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(41, 145);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(115, 34);
@@ -108,8 +108,9 @@
             // 
             // lbRadius
             // 
+            this.lbRadius.BackColor = System.Drawing.Color.PaleTurquoise;
             this.lbRadius.Enabled = false;
-            this.lbRadius.Font = new System.Drawing.Font("TH SarabunPSK", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lbRadius.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lbRadius.Location = new System.Drawing.Point(162, 145);
             this.lbRadius.Name = "lbRadius";
             this.lbRadius.Size = new System.Drawing.Size(161, 34);
@@ -117,8 +118,8 @@
             // 
             // btExit
             // 
-            this.btExit.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.btExit.Font = new System.Drawing.Font("TH SarabunPSK", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btExit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btExit.Location = new System.Drawing.Point(41, 269);
             this.btExit.Name = "btExit";
             this.btExit.Size = new System.Drawing.Size(364, 59);
@@ -132,9 +133,10 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange;
-            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.BackColor = System.Drawing.Color.RoyalBlue;
             this.CausesValidation = false;
             this.ClientSize = new System.Drawing.Size(457, 334);
+            this.ControlBox = false;
             this.Controls.Add(this.btExit);
             this.Controls.Add(this.lbRadius);
             this.Controls.Add(this.label3);
@@ -145,6 +147,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "โปรแกรมคำนวณพื้นที่วงกลม";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
