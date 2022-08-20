@@ -15,8 +15,9 @@ namespace CircleP
                 txtRadius.Focus();
                 return;
             }
-            double Radius = 0, pi = 3.14, sum = 0;//กำหนดค่าการคำนวนพื้นที่
-            }
+            double Radius = 0, pi = 3.14, sum = 0;
+            Radius = Convert.ToDouble(txtRadius.Text);
+        }
 
         private void btClr_Click(object sender, EventArgs e)
         {
