@@ -9,9 +9,9 @@ namespace CircleP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (txtRadius.Text == "")//ข้อความแจ้งเตือนให้ใส่ตัวเลข กาว
+            if (txtRadius.Text == "")
             {
-                MessageBox.Show("กรุณาป้อนตัวเลขรัศมีก่อน", "แจ้งเตือน");//ข้อความแจ้งเตือนให้ใส่ตัวเลข กาว
+                MessageBox.Show("กรุณาป้อนตัวเลขรัศมีก่อน", "แจ้งเตือน");
             }
             }
 
@@ -23,6 +23,11 @@ namespace CircleP
         private void btExit_Click(object sender, EventArgs e)
         {
            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
