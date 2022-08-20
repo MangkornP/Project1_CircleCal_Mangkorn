@@ -22,7 +22,9 @@ namespace CircleP
 
         private void btClr_Click(object sender, EventArgs e)
         {
-           
+            txtRadius.Clear();
+            lbRadius.Text = "";
+            txtRadius.Focus();
         }
 
         private void btExit_Click(object sender, EventArgs e)
