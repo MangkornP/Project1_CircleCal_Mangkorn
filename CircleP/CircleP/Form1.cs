@@ -11,8 +11,11 @@ namespace CircleP
         {
             if (txtRadius.Text == "")
             {
-                MessageBox.Show("��سһ�͹����Ţ����ա�͹", "����͹");
-            }double Radius = 0, pi = 3.14, sum = 0;//กำหนดค่าการคำนวนพื้นที่
+                MessageBox.Show("กรุณาป้อนตัวเลขรัศมีก่อน", "แจ้งเตือน");
+                txtRadius.Focus();
+                return;
+            }
+            double Radius = 0, pi = 3.14, sum = 0;//กำหนดค่าการคำนวนพื้นที่
             }
 
         private void btClr_Click(object sender, EventArgs e)
