@@ -17,3 +17,6 @@ Project1_CircleCal_Mangkorn
 - chichoin                      นายชนาธิป พลเสน -สูตรการคำนวนพื้นที่  
 - iigluayy                      ธนกร ดอนพรม- ทำปุ่มเคลียร์
 - Phatcharaphon Detthet         นายพัชรพล เดชเทศ -ทำปุ่มออกโปรแกรม
+
+# Trello
+- https://trello.com/invite/b/FcZs2Q3o/955a547fc7eabb0a0f4652e8385b27c9/โปรแกรมคำนวณพื้นที่วงกลม
