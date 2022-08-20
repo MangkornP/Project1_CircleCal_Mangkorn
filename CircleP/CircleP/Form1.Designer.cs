@@ -82,7 +82,7 @@
             this.txtRadius.Font = new System.Drawing.Font("TH SarabunPSK", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.txtRadius.Location = new System.Drawing.Point(162, 92);
             this.txtRadius.Name = "txtRadius";
-            this.txtRadius.Size = new System.Drawing.Size(243, 43);
+            this.txtRadius.Size = new System.Drawing.Size(243, 38);
             this.txtRadius.TabIndex = 3;
             this.txtRadius.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -135,6 +135,7 @@
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.CausesValidation = false;
             this.ClientSize = new System.Drawing.Size(457, 334);
+            this.ControlBox = false;
             this.Controls.Add(this.btExit);
             this.Controls.Add(this.lbRadius);
             this.Controls.Add(this.label3);
