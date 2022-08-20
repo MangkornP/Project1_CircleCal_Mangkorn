@@ -17,6 +17,7 @@ namespace CircleP
             }
             double Radius = 0, pi = 3.14, sum = 0;
             Radius = Convert.ToDouble(txtRadius.Text);
+            lbRadius.Text = sum.ToString("");
         }
 
         private void btClr_Click(object sender, EventArgs e)
